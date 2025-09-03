@@ -13,8 +13,8 @@ UDP Flood DDoS Test Tool for your own network or WAB testing purposes. Created b
 ```bash
 git clone https://github.com/Forhadj/FORHAD-DDOS-TOOL-v2
 cd FORHAD-DDOS-TOOL-v2
-chmod +x run.sh
-bash run.sh
+chmod +x ddos.py
+python ddos.py
 ```
 
 ## ⚠️ Legal Disclaimer
